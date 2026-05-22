@@ -1,16 +1,104 @@
-## Hi there 👋
+# Hi, I'm Mathías 👋
 
-<!--
-**MathiiMz/MathiiMz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity Analyst & Backend Developer focused on:
 
-Here are some ideas to get you started:
+- SOC Operations
+- Threat Detection
+- SIEM & Log Analysis
+- Security Automation
+- Backend Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Featured Projects
+
+### 🔍 SOC Lab with Splunk
+
+Detection engineering and threat hunting laboratory using:
+
+- Splunk Enterprise
+- Linux log analysis
+- SSH attack simulations
+- Auditd monitoring
+- Correlation searches
+- Security dashboards
+
+Scenarios include:
+- Brute force detection
+- Privilege escalation
+- Reverse shell activity
+- Suspicious command execution
+- Post-exploitation analysis
+
+---
+
+### 🛡️ CVE Intelligence API
+
+Security-focused REST API for vulnerability analysis and CVE management.
+
+Features:
+- CVE data collection
+- Vulnerability filtering by severity
+- REST API architecture
+- JSON processing
+- Security-focused data handling
+
+---
+
+### 📊 SOC Dashboard Frontend
+
+Frontend dashboard for security monitoring and incident visualization.
+
+Built with:
+- React
+- TypeScript
+- TailwindCSS
+
+Features:
+- Authentication
+- Incident visualization
+- Security metrics
+- Interactive dashboards
+
+---
+
+## Technologies & Tools
+
+### Security
+- Splunk
+- Linux
+- Sysmon
+- Auditd
+- SIEM
+- Threat Hunting
+
+### Programming
+- Python
+- C#
+- JavaScript
+- Bash
+- PowerShell
+- SQL
+
+### Development
+- .NET
+- Node.js
+- React
+- Git
+- REST APIs
+
+---
+
+## Currently Learning
+
+- Detection Engineering
+- Backend Architecture
+- Security Automation
+- Cloud & DevSecOps
+
+---
+
+## Connect with Me
+
+- LinkedIn
+- Email
