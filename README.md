@@ -45,7 +45,7 @@ Features:
 
 ---
 
-### 📊 SOC Dashboard Frontend
+### 📊 Dashboard Frontend
 
 Frontend dashboard for security monitoring and incident visualization.
 
@@ -95,10 +95,3 @@ Features:
 - Backend Architecture
 - Security Automation
 - Cloud & DevSecOps
-
----
-
-## Connect with Me
-
-- LinkedIn
-- Email
