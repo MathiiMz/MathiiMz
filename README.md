@@ -1,107 +1,41 @@
 # Hi, I'm Mathias 👋
 
-Cybersecurity Analyst & Backend Developer focused on security monitoring, vulnerability analysis and backend development.
+Cybersecurity Analyst & Backend Developer focused on:
+
+- SOC Operations
+- Threat Detection
+- SIEM & Log Analysis
+- Backend Development
+- Security Automation
 
 ---
 
-## 🔍 SOC Lab with Splunk
+## 🔍 Featured Projects
 
-Detection engineering and threat hunting laboratory focused on security monitoring and attack simulation.
+### SOC Lab with Splunk
+Threat hunting and detection engineering lab using Splunk, Linux, Sysmon and Auditd.
 
-### Technologies
-- Splunk Enterprise
-- Linux
-- Sysmon
-- Auditd
-
-### Scenarios
-- SSH brute force attacks
-- Privilege escalation
-- Reverse shell activity
-- Suspicious command execution
-- Post-exploitation analysis
-- Event correlation searches
-- Security dashboard visualization
-
----
-
-## 🛡️ CVEVault
-
+### CVEVault
 Security-focused vulnerability intelligence platform for CVE ingestion, monitoring and analysis.
 
-### Features
-- CVE ingestion from external APIs
-- Vulnerability severity filtering
-- REST API architecture
-- Automated data processing
-- MySQL integration
-- Pagination and search system
-- Secure query validation
-
-### Stack
-- PHP
-- MySQL
-- JavaScript
-- Bootstrap
-- REST APIs
+### Frontend Dashboard *(In Progress)*
+React-based dashboard for vulnerability and security event visualization.
 
 ---
 
-## 📊 Frontend Dashboard (In Progress)
-
-Frontend dashboard for vulnerability and security event visualization.
-
-### Planned Stack
-- React
-- TypeScript
-- TailwindCSS
-
-### Planned Features
-- Authentication
-- Incident visualization
-- Security metrics
-- Interactive dashboards
-
----
-
-## ⚙️ Technologies & Tools
+## ⚙️ Technologies
 
 ### Security
-- Splunk
-- Linux
-- Sysmon
-- Auditd
-- SIEM
-- Threat Hunting
+Splunk • Linux • Sysmon • SIEM • Threat Hunting
 
-### Backend & Programming
-- PHP
-- Python
-- C#
-- JavaScript
-- SQL
-- REST APIs
+### Backend
+PHP • Python • C# • SQL • REST APIs
 
-### Tools & Development
-- Git
-- MySQL
-- Bash
-- PowerShell
+### Development
+Git • MySQL • JavaScript • Bash • PowerShell
 
 ---
 
 ## 📚 Currently Learning
 
-- Detection Engineering
-- Backend Architecture
-- Laravel
-- React
-- Security Automation
-- Cloud & DevSecOps
-
----
-
-## 📫 Connect with Me
-
-- LinkedIn
-- Email
+Laravel • React • Detection Engineering • DevSecOps
