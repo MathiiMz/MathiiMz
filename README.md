@@ -1,60 +1,62 @@
 # Hi, I'm Mathías 👋
 
-Cybersecurity Analyst & Backend Developer focused on:
-
-- SOC Operations
-- Threat Detection
-- SIEM & Log Analysis
-- Security Automation
-- Backend Development
+Cybersecurity Analyst & Backend Developer focused on security monitoring, vulnerability analysis and backend development.
 
 ---
 
-## Featured Projects
+## 🔍 SOC Lab with Splunk
 
-### 🔍 SOC Lab with Splunk
+Detection engineering and threat hunting laboratory focused on security monitoring and attack simulation.
 
-Detection engineering and threat hunting laboratory using:
-
+### Technologies
 - Splunk Enterprise
-- Linux log analysis
-- SSH attack simulations
-- Auditd monitoring
-- Correlation searches
-- Security dashboards
+- Linux
+- Sysmon
+- Auditd
 
-Scenarios include:
-- Brute force detection
+### Scenarios
+- SSH brute force attacks
 - Privilege escalation
 - Reverse shell activity
 - Suspicious command execution
 - Post-exploitation analysis
+- Event correlation searches
+- Security dashboard visualization
 
 ---
 
-### 🛡️ CVE Intelligence API
+## 🛡️ CVEVault
 
-Security-focused REST API for vulnerability analysis and CVE management.
+Security-focused vulnerability intelligence platform for CVE ingestion, monitoring and analysis.
 
-Features:
-- CVE data collection
-- Vulnerability filtering by severity
+### Features
+- CVE ingestion from external APIs
+- Vulnerability severity filtering
 - REST API architecture
-- JSON processing
-- Security-focused data handling
+- Automated data processing
+- MySQL integration
+- Pagination and search system
+- Secure query validation
+
+### Stack
+- PHP
+- MySQL
+- JavaScript
+- Bootstrap
+- REST APIs
 
 ---
 
-### 📊 Dashboard Frontend
+## 📊 Frontend Dashboard (In Progress)
 
-Frontend dashboard for security monitoring and incident visualization.
+Frontend dashboard for vulnerability and security event visualization.
 
-Built with:
+### Planned Stack
 - React
 - TypeScript
 - TailwindCSS
 
-Features:
+### Planned Features
 - Authentication
 - Incident visualization
 - Security metrics
@@ -62,7 +64,7 @@ Features:
 
 ---
 
-## Technologies & Tools
+## ⚙️ Technologies & Tools
 
 ### Security
 - Splunk
@@ -72,26 +74,34 @@ Features:
 - SIEM
 - Threat Hunting
 
-### Programming
+### Backend & Programming
+- PHP
 - Python
 - C#
 - JavaScript
+- SQL
+- REST APIs
+
+### Tools & Development
+- Git
+- MySQL
 - Bash
 - PowerShell
-- SQL
-
-### Development
-- .NET
-- Node.js
-- React
-- Git
-- REST APIs
 
 ---
 
-## Currently Learning
+## 📚 Currently Learning
 
 - Detection Engineering
 - Backend Architecture
+- Laravel
+- React
 - Security Automation
 - Cloud & DevSecOps
+
+---
+
+## 📫 Connect with Me
+
+- LinkedIn
+- Email
