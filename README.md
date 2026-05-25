@@ -18,18 +18,18 @@ Threat hunting and detection engineering lab using Splunk, Linux, Sysmon and Aud
 ### CVEVault
 Security-focused vulnerability intelligence platform for CVE ingestion, monitoring and analysis.
 
-### Frontend Dashboard *(In Progress)*
-React-based dashboard for vulnerability and security event visualization.
+### SemtinelOps *(In Progress)*
+SOC-oriented incident management backend built with Laravel.
 
 ---
 
 ## ⚙️ Technologies
 
 ### Security
-Splunk • Linux • Sysmon • SIEM • Threat Hunting
+Splunk • Linux • SIEM • Auditd • Threat Hunting • MITRE ATT&CK
 
 ### Backend
-PHP • Python • C# • SQL • REST APIs
+PHP • Python • Laravel • FastAPI • SQL • REST APIs
 
 ### Development
 Git • MySQL • JavaScript • Bash • PowerShell
