@@ -18,7 +18,7 @@ Threat hunting and detection engineering lab using Splunk, Linux, Sysmon and Aud
 ### CVEVault
 Security-focused vulnerability intelligence platform for CVE ingestion, monitoring and analysis.
 
-### SentinelOps *(In Progress)*
+### SentinelOps
 SOC-oriented incident management backend built with Laravel.
 
 ---
