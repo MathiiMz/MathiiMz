@@ -21,6 +21,9 @@ Security-focused vulnerability intelligence platform for CVE ingestion, monitori
 ### SentinelOps
 SOC-oriented incident management backend built with Laravel.
 
+### Vulnerability Management Automation
+Python-based automation for vulnerability analysis, risk prioritization and automated reporting using
+
 ---
 
 ## ⚙️ Technologies
@@ -38,4 +41,4 @@ Git • MySQL • JavaScript • Bash • PowerShell
 
 ## 📚 Currently Learning
 
-Laravel • React • Detection Engineering • DevSecOps
+Laravel • React • Detection Engineering • DevSecOps • Vulnerability Management
